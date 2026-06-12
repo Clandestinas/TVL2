@@ -1,4 +1,12 @@
 {
-  "allowedUsers": [5465525855, 987654321],
-  "blockedUsers": []
+    "whitelisted": [
+        "User",
+        123456789,
+        "User",
+        987654321
+    ],
+    "blacklisted": [
+        "User",
+        111222333
+    ]
 }
